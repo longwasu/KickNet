@@ -19,6 +19,8 @@ python -m pip install -r requirements.txt
 ```sh
 python main.py
 ```
+![image](https://github.com/user-attachments/assets/96bc98ea-1e8f-4b04-935b-301387320e63)
+
 
 
 
